@@ -1,0 +1,157 @@
+                if (yPos >= höhe +2)
+                {
+                    while (yPos > 1)
+                    {
+                        yPos = yPos - 1;
+                        xPos = xPos - 1;
+                        Console.SetCursorPosition(xPos, yPos);
+                        Console.WriteLine("*");
+                        //Speed
+                        System.Threading.Thread.Sleep(speed);
+
+                        if (xPos <= 1 || xPos >= breite) break;
+                    }
+                }
+                if (xPos >= breite -1)
+                {
+                    while (xPos > 1)
+                    {
+                        xPos = xPos - 1;
+                        yPos = yPos - 1;
+                        //Cursor auf Neue Position setzen
+                        Console.SetCursorPosition(xPos, yPos);
+                        Console.WriteLine("*");
+                        //Speed
+                        System.Threading.Thread.Sleep(speed);
+
+                        if (yPos <= 1 || yPos >= höhe) break;
+
+                    }
+                }
+                if (xPos <= 1 )
+                {
+                    while (xPos < breite)
+                    {
+                        xPos = xPos + 1;
+                        yPos = yPos + 1;
+                        //Cursor auf Neue Position setzen
+                        Console.SetCursorPosition(xPos, yPos);
+                        Console.WriteLine("*");
+                        //Speed
+                        System.Threading.Thread.Sleep(speed);
+
+                        if (yPos <= 1 || yPos >= höhe) break;
+                    }
+                }
+                 if (yPos <= 1 )
+                {
+                    while (yPos < höhe -2 )
+                    {
+                        //Cursor auf Neue Position setzen
+                        Console.SetCursorPosition(xPos, yPos);
+                        yPos = yPos + 1;
+                        xPos = xPos + 1;
+                        Console.WriteLine("*");
+
+                        //Speed
+                        System.Threading.Thread.Sleep(speed);
+
+                        if (xPos <= 1 || xPos >= höhe) break;
+                    }
+                }
+
+
+
+
+
+				                if (yPos >= höhe)
+                {
+                    while (yPos > 2)
+                    {
+
+                        yPos = yPos - 1;
+                        xPos = xPos + 1;
+                        Console.SetCursorPosition(xPos, yPos);
+ 
+                        Console.WriteLine("{0}", "*");
+                        if (xPos > 3 && yPos > 3)
+                        {
+                            Console.SetCursorPosition(xPos - 3, yPos - 3);
+                            Console.ForegroundColor = Console.BackgroundColor;
+                            Console.WriteLine("*");
+                            Console.ResetColor();
+                        }
+                        if (xPos > 3 && yPos > 3)
+                        {
+                            //löschen der Zeichen
+                            Console.SetCursorPosition(xPos - 3, yPos - 3);
+                            Console.ForegroundColor = Console.BackgroundColor;
+                            Console.WriteLine("*");
+                            Console.ResetColor();
+                        }
+
+                        //Speed vom Ball
+                        System.Threading.Thread.Sleep(speed);
+                    }
+                }
+                if (xPos >= breite -4)
+                {
+                    while (xPos > 2)
+                    {
+                        xPos = xPos - 1;
+                        Console.SetCursorPosition(xPos, yPos);
+
+                        Console.WriteLine("{0}", "*");
+
+                        if (xPos > 3 && yPos > 3)
+                        {
+                            //löschen der Zeichen
+                            Console.SetCursorPosition(xPos - 3, yPos - 3);
+                            Console.ForegroundColor = Console.BackgroundColor;
+                            Console.WriteLine("*");
+                            Console.ResetColor();
+                        }
+                        //Speed vom Ball
+                        System.Threading.Thread.Sleep(speed);
+                    }
+                }
+                else if (xPos >= breite - 4 && yPos >= höhe -3)
+                {
+                    while (xPos > 2 || yPos > 2)
+                    {
+                        xPos = xPos - 1;
+                        yPos = yPos - 1;
+                        Console.SetCursorPosition(xPos, yPos);
+
+                        Console.WriteLine("{0}", "*");
+
+                        if (xPos > 3 && yPos > 3)
+                        {
+                            //löschen der Zeichen
+                            Console.SetCursorPosition(xPos - 3, yPos - 3);
+                            Console.ForegroundColor = Console.BackgroundColor;
+                            Console.WriteLine("*");
+                            Console.ResetColor();
+                        }
+                        //Speed vom Ball
+                        System.Threading.Thread.Sleep(speed);
+                    }
+                }
+                else
+                {
+                    xPos = xPos + 1;
+                    yPos = yPos + 1;
+                    Console.SetCursorPosition(xPos, yPos);
+
+                    
+                    Console.WriteLine("{0}", "*");
+
+                    //löschen der Zeichen
+                    if (xPos > 3 && yPos > 3)
+                    {
+
+                        Console.SetCursorPosition(xPos - 3, yPos - 3);
+                        Console.ForegroundColor = Console.BackgroundColor;
+                        Console.WriteLine("*");
+                        Console.ResetColor();
+                    }

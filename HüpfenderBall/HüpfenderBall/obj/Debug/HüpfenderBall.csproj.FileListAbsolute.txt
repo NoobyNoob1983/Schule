@@ -1,0 +1,14 @@
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\bin\Debug\HüpfenderBall.exe.config
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\bin\Debug\HüpfenderBall.exe
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\bin\Debug\HüpfenderBall.pdb
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.csprojAssemblyReference.cache
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.csproj.CoreCompileInputs.cache
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.exe
+C:\Users\NoobyNoob\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.pdb
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\bin\Debug\HüpfenderBall.exe.config
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\bin\Debug\HüpfenderBall.exe
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\bin\Debug\HüpfenderBall.pdb
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.csprojAssemblyReference.cache
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.csproj.CoreCompileInputs.cache
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.exe
+C:\Users\ita1-tn04\source\repos\HüpfenderBall\HüpfenderBall\obj\Debug\HüpfenderBall.pdb
