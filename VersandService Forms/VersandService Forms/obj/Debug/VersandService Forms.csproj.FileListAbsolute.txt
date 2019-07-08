@@ -1,0 +1,10 @@
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\bin\Debug\VersandService Forms.exe.config
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\bin\Debug\VersandService Forms.exe
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\bin\Debug\VersandService Forms.pdb
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService Forms.csprojAssemblyReference.cache
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService_Forms.Properties.Resources.resources
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService Forms.csproj.GenerateResource.cache
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService Forms.csproj.CoreCompileInputs.cache
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService Forms.exe
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService Forms.pdb
+C:\Users\ita1-tn04\source\repos\VersandService Forms\VersandService Forms\obj\Debug\VersandService_Forms.Forms.Adressen.resources
