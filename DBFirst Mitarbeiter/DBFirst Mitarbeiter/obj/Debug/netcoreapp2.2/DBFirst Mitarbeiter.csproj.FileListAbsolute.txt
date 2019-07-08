@@ -1,0 +1,40 @@
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.deps.json
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.runtimeconfig.json
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.runtimeconfig.dev.json
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.dll
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.pdb
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.Views.dll
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\bin\Debug\netcoreapp2.2\DBFirst Mitarbeiter.Views.pdb
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.csprojAssemblyReference.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.csproj.CoreCompileInputs.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.RazorAssemblyInfo.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.RazorAssemblyInfo.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.AssemblyInfoInputs.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.AssemblyInfo.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.TagHelpers.input.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.TagHelpers.output.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.RazorCoreGenerate.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.RazorTargetAssemblyInfo.cache
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.RazorTargetAssemblyInfo.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.Views.pdb
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.dll
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.pdb
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\DBFirst Mitarbeiter.csproj.CopyComplete
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Create.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Delete.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Details.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Edit.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Employee\Index.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Create.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Delete.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Details.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Edit.g.cshtml.cs
+C:\Users\ita1-tn04\source\repos\DBFirst Mitarbeiter\DBFirst Mitarbeiter\obj\Debug\netcoreapp2.2\Razor\Views\Projects\Index.g.cshtml.cs
