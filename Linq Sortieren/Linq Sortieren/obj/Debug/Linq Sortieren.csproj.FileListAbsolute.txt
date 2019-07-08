@@ -1,0 +1,7 @@
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\bin\Debug\Linq Sortieren.exe.config
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\bin\Debug\Linq Sortieren.exe
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\bin\Debug\Linq Sortieren.pdb
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\obj\Debug\Linq Sortieren.csprojAssemblyReference.cache
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\obj\Debug\Linq Sortieren.csproj.CoreCompileInputs.cache
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\obj\Debug\Linq Sortieren.exe
+C:\Users\ita1-tn04\source\repos\Linq Sortieren\Linq Sortieren\obj\Debug\Linq Sortieren.pdb
