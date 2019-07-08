@@ -1,0 +1,7 @@
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\bin\Debug\SchneckenRennen.exe.config
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\bin\Debug\SchneckenRennen.exe
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\bin\Debug\SchneckenRennen.pdb
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\obj\Debug\SchneckenRennen.csprojAssemblyReference.cache
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\obj\Debug\SchneckenRennen.csproj.CoreCompileInputs.cache
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\obj\Debug\SchneckenRennen.exe
+C:\Users\ita1-tn04\source\repos\SchneckenRennen\SchneckenRennen\obj\Debug\SchneckenRennen.pdb
