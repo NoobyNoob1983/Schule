@@ -1,0 +1,32 @@
+﻿img {
+    position: absolute;
+    top: 30%;
+    left: 38%;
+    float: left;
+    clear: left;
+}
+
+body {
+    margin: 0 auto;
+    width: 450px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+#main {
+    display: inline-block;
+    width: 418px;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#e1ffff+0,fdffff+0,e1ffff+7,e1ffff+12,e6f8fd+30,c8eefb+54,bee4f8+75,b1d8f5+100 */
+    background: #e1ffff; /* Old browsers */
+    background: -moz-linear-gradient(top, #e1ffff 0%, #fdffff 0%, #e1ffff 7%, #e1ffff 12%, #e6f8fd 30%, #c8eefb 54%, #bee4f8 75%, #b1d8f5 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #e1ffff 0%,#fdffff 0%,#e1ffff 7%,#e1ffff 12%,#e6f8fd 30%,#c8eefb 54%,#bee4f8 75%,#b1d8f5 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #e1ffff 0%,#fdffff 0%,#e1ffff 7%,#e1ffff 12%,#e6f8fd 30%,#c8eefb 54%,#bee4f8 75%,#b1d8f5 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e1ffff', endColorstr='#b1d8f5',GradientType=0 ); /* IE6-9 */
+    padding: 15px;
+    border: 2px solid black;
+    box-shadow: 5px 5px 10px grey;
+    height: auto;
+}

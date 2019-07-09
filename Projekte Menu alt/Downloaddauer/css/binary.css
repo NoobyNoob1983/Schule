@@ -1,0 +1,55 @@
+﻿body {
+width:650px;
+}
+    #main {
+    display: inline-flex;
+    width:750px;
+}
+
+input[type=text], select {
+    width: 98%;
+}
+
+#textbox {
+    position: absolute;
+    top: 1%;
+    left: 250px;
+    float: right;
+    visibility: hidden;
+}
+
+#check, #check2, #check3 {
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+    border: 2px solid black;
+}
+
+.block {
+
+    text-align: left;
+    margin-bottom: 0;
+}
+
+#ggtContainer {
+    width: 250px;
+    background-color: green;
+    padding: 15px;
+    border: 3px solid black;
+}
+
+#binär {
+    width: 250px;
+    background-color: darkgreen;
+    padding: 15px;
+    margin-left: 5px;
+    border: 3px solid black;
+}
+
+#isbnBox {
+    width: 250px;
+    background-color: darkgreen;
+    padding: 15px;
+    margin-left: 5px;
+    border: 3px solid black;
+}
